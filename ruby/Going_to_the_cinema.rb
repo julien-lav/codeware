@@ -9,3 +9,5 @@ def movie(card, ticket, perc)
     end 
     return p count
 end
+
+movie(100, 10, 0.95)
